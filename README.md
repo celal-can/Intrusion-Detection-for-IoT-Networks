@@ -125,3 +125,11 @@ Multi-core CPU
 # 8. Citation
 
 If you use this repository in your research, please cite:
+
+@article{your2026paper,
+  title={Bird-Based Metaheuristic Feature Selection for IoT Intrusion Detection},
+  author={Your Name},
+  journal={Journal Name},
+  year={2026},
+  publisher={Elsevier/IEEE}
+}
