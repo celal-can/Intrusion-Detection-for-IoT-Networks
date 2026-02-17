@@ -3,17 +3,10 @@ Bird-Inspired Optimization Approach using Taper-Shape Transfer Function for Intr
 
 # Overview
 
-The rapid expansion of Internet of Things (IoT) ecosystems has significantly increased cybersecurity vulnerabilities. High-dimensional IoT traffic data makes intrusion detection both computationally expensive and challenging in terms of classification performance.
+⚠️ Manuscript Status Notice
 
-This project proposes:
-
-Bird-inspired metaheuristic optimization algorithms
-
-Binary transformation using a taper-shaped transfer function
-
-Feature selection to reduce dimensionality
-
-Evaluation using machine learning classifiers
+This repository is associated with a manuscript currently under peer review in a scientific journal.
+The current version of the repository provides the core implementation necessary for validation and preliminary reproducibility assessment. A comprehensive documentation update will follow acceptance and publication.
 
 Datasets used:
 
